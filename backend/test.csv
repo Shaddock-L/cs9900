@@ -1,0 +1,7 @@
+name,image_path,category,price,ingredients,description,recommend
+pizza,./dish_images/pizza.jpg,1,10,ingred-test,descrip-test,True
+burger,./dish_images/burger.jpg,2,11,ingred-test,descrip-test,False
+chips,./dish_images/chips.jpg,3,12,ingred-test,descrip-test,True
+chicken,./dish_images/chicken.jpg,4,13,ingred-test,descrip-test,True
+salmon,./dish_images/salmon.jpg,5,14,ingred-test,descrip-test,False
+

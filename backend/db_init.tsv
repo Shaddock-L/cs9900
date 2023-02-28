@@ -1,0 +1,26 @@
+name	image_path	category	price	ingredients	recommend
+Burger Joint Chessburger	/t1/p1.webp	pizzas	10.95	Allergen(s): Egg, Milk, Gluten, Soy. Loaded with 100% all beef burger pieces, American cheese slices, mozzarella and butter pickles topped with special burger sauce.	False
+Impossible Fire Breather	/t1/p2.webp	pizzas	16.99	Allergen(s): Milk, Gluten, Soy. Impossible plant-based Beef Pattie, fiery jalapenos, diced tomato & sliced red onion with a spicy hit of chilli flakes.	True
+Garlic chicken & Bacon Aioli	/t1/p3.webp	pizzas	17.99	Allergen(s): Egg, Milk, Gluten, Soy. Succulent chicken, crispy rasher bacon, spinach & red onion, served on a zesty garlic & pizza sauce base, topped with a Garlic Parmesan Aioli.	True
+Supreme	/t1/p4.webp	pizzas	14.99	Allergen(s): Milk, Gluten, Soy. Crispy rasher bacon, pepperoni & Italian sausage, topped with fresh mushrooms, capsicum, crumbled beef & juicy pineapple, finished with vibrant spring onions & oregano.	True
+Godfather	/t1/p5.webp	pizzas	9.99	Allergen(s): Milk, Gluten, Soy. Domino's pepperoni paired with Italian sausage, fresh capsicum, diced tomato & Kalamata olives on a zesty garlic & pizza sauce base, topped with oregano.	False
+Mega Meatlovers	/t1/p6.webp	pizzas	20.98	Allergen(s): Milk, Gluten, Soy. Mega loaded, mega tasty. Featuring seasoned chicken, smokey leg ham, crumbled beef, pepperoni slices, Italian sausage & crispy rasher bacon, brought together with a Hickory BBQ sauce.	True
+Cheese & Garlic Scrolls	/t2/s1.webp	sides	5	Allergen(s): Gluten, Soy, Milk. 4 freshly baked scrolls filled with tasty mozzarella cheese, drizzled in garlic butter & dusted with parmesan and herb sprinkle.	True
+Garlic Bread	/t2/s2.webp	sides	4.2	Allergen(s): Gluten, Soy, Sesame (may contain). Hot, traditional loaves of Garlic Bread.	False
+Cheesy Garlic Bread	/t2/s3.webp	sides	5	Allergen(s): Gluten,Soy,Sesame (may contain),Milk. Freshly oven baked herb & garlic bread, topped with stretchy mozzarella.	True
+Oven Baked Chips	/t2/s4.webp	sides	5	Allergen(s): Gluten. Australian sourced oven-baked chips, dusted with Domino's seasoned salt.	False
+Vegan Cheesy Garlic Bread	/t2/s5.webp	sides	7	Allergen(s): Gluten,Soy,Sesame (may contain). Freshly oven-baked herb & garlic bread, topped with vegan cheese & spring onions.	True
+Boneless chicken Tenders	/t3/c1.webp	chicken	10.49	Allergen(s): Gluten, Soy, Milk. 100% chicken breast tenders coated in a light & crispy Southern-Style crumb, served with your choice of 2 dipping sauces.	True
+Frank's RedHot Buffalo chicken Tenders	/t3/c2.webp	chicken	10.49	Allergen(s): Gluten, Soy, Milk. 100% chicken breast tenders coated in a light & crispy Southern-Style crumb, drizzled with Frank's RedHot Original Hot Sauce.	False
+Hickory BBQ chicken Wings	/t3/c3.webp	chicken	13.60	Allergen(s): Egg. Seasoned chicken wings coated with a smoky Hickory BBQ sauce.	True
+Buttermilk chicken Pieces	/t3/c4.webp	chicken	13.60	Allergen(s): Milk, Gluten, Soy. 100% succulent chicken breast, marinated in buttermilk and coated in a golden crumb. Served with your choice of 2 dipping sauces.	True
+BBQ chicken Mini Meatballs	/t3/c5.webp	chicken	6.30	Allergen(s): Gluten, Soy. 15 mini meatballs made with a tasty chicken mince topped with a smoky Hickory BBQ sauce.	False
+Mint Cookies and Cream Thickshake	/t4/d1.webp	drinks-and-shakes	6.99	Allergen(s): Milk, Gluten, Soy. Handcrafted Mint Cookies & Cream Thickshake. Made at - 14 degrees for the thickest thickshake ever.	True
+Salted Caramel Thickshake	/t4/d2.webp	drinks-and-shakes	6.99	Allergen(s): Milk. Handcrafted Salted Caramel Thickshake. Made at -14 degrees for the thickest thickshake ever.	False
+Chocolate Malt Thickshake with Cream	/t4/d3.webp	drinks-and-shakes	6.99	Allergen(s): Milk, Gluten, Soy. Handcrafted Chocolate Malt Thickshake topped with whipped cream. Made at -14 degrees for the thickest thickshake ever.	False
+Malted Vanilla Thickshake	/t4/d4.webp	drinks-and-shakes	6.99	Allergen(s): Milk, Gluten, Soy. Handcrafted Malted Vanilla Thickshake. Made at -14 degrees for the thickest thickshake ever.	True
+Choc Lava Cake	/t5/de1.webp	desserts	4.79	Allergen(s): Egg,Milk,Gluten,Soy,Peanut (may contain),Tree Nut (may contain). Oven-baked chocolate cake with a gooey middle oozing with rich chocolate.	False
+Hot Choc Fudge Brownies	/t5/de2.webp	desserts	6.30	Allergen(s): Egg,Milk,Gluten,Soy,Peanut (may contain),Tree Nut (may contain). 6 pieces of delicious Hot Choc Fudge Brownies with a decadent chocolate dipping sauce.	True
+Mini Dutch Pancakes	/t5/de3.webp	desserts	4.40	Allergen(s): Milk,Egg,Gluten,Soy,Tree Nut (may contain). 12 pack of oven-baked mini Dutch pancakes drizzled with butter and dusted with icing sugar.	True
+Choc Sundae	/t5/de4.webp	desserts	3.39	Allergen(s): Milk,Soy. A classic vanilla sundae drizzled with decadent chocolate sauce.	False
+Salted Caramel Sundae	/t5/de5.webp	desserts	3.39	Allergen(s): Milk,Soy. A classic vanilla sundae drizzled with salted caramel sauce.	False

@@ -1,0 +1,10 @@
+DIALECT = 'mysql' 
+DRIVER = 'pymysql' 
+HOST = "localhost"
+PORT = 3306
+DATA_BASE = "flask_db"
+USER = "root"
+PWD = "123456"
+DB_URI = f"mysql+pymysql://{USER}:{PWD}@{HOST}:{PORT}/{DATA_BASE}"
+
+SQLALCHEMY_TRACK_MODIFICATIONS = False

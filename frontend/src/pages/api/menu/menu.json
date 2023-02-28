@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "1 Large Value Pizza",
+    "ingredient": "ingredient",
+    "recommended": true,
+    "img": "/t1/1.webp",
+    "price": 50,
+    "category": "pizzas"
+  },
+  {
+    "id": 2,
+    "name": "2 Large Pizzas & 2 Sides",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t1/2.webp",
+    "price": 29.95,
+    "category": "pizzas"
+  },
+  {
+    "id": 3,
+    "name": "3 Large Pizzas & 2 Sides",
+    "ingredient": "ingredient",
+    "recommended": true,
+    "img": "/t1/3.webp",
+    "price": 36.95,
+    "category": "pizzas"
+  },
+  {
+    "id": 4,
+    "name": "2 Selected Sides",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t1/4.webp",
+    "price": 9.95,
+    "category": "pizzas"
+  },
+  {
+    "id": 5,
+    "name": "Mini Burger Joint Cheeseburger",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t1/5.webp",
+    "price": 46.95,
+    "category": "pizzas"
+  },
+  {
+    "id": 6,
+    "name": "Indi Chicken Tikka",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t1/6.webp",
+    "price": 19.95,
+    "category": "pizzas"
+  },
+  {
+    "id": 7,
+    "name": "Cheese & Garlic Scrolls",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t2/1.webp",
+    "price": 30,
+    "category": "sides"
+  },
+  {
+    "id": 8,
+    "name": "Garlic Bread",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t2/2.webp",
+    "price": 19.95,
+    "category": "sides"
+  },
+  {
+    "id": 9,
+    "name": "Cheesy Garlic Bread",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t2/3.webp",
+    "price": 39.95,
+    "category": "sides"
+  },
+  {
+    "id": 10,
+    "name": "Vegan Cheesy Garlic Bread",
+    "ingredient": "ingredient",
+    "recommended": true,
+    "img": "/t2/4.webp",
+    "price": 19.95,
+    "category": "sides"
+  },
+  {
+    "id": 11,
+    "name": "2 375ml Cans & Garlic Bread",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t2/5.webp",
+    "price": 19.95,
+    "category": "sides"
+  },
+  {
+    "id": 12,
+    "name": "Oven Baked Chips",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t2/6.webp",
+    "price": 29.95,
+    "category": "sides"
+  },
+  {
+    "id": 13,
+    "name": "Boneless Chicken Tenders ",
+    "ingredient": "ingredient",
+    "recommended": true,
+    "img": "/t3/1.webp",
+    "price": 40.32,
+    "category": "chicken"
+  },
+  {
+    "id": 14,
+    "name": "Frank's Redhot Â® Buffalo Chicken Tenders",
+    "ingredient": "ingredient",
+    "recommended": true,
+    "img": "/t3/2.webp",
+    "price": 24.95,
+    "category": "chicken"
+  },
+  {
+    "id": 15,
+    "name": "Seasoned Chicken Wings",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t3/3.webp",
+    "price": 18.95,
+    "category": "chicken"
+  },
+  {
+    "id": 16,
+    "name": "Southern Fried Chicken Bites",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t3/4.webp",
+    "price": 19.5,
+    "category": "chicken"
+  },
+  {
+    "id": 17,
+    "name": "Buttermilk Chicken Pieces",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t3/5.webp",
+    "price": 18.73,
+    "category": "chicken"
+  },
+  {
+    "id": 18,
+    "name": "Chicken Mini Meatballs",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t3/6.webp",
+    "price": 12.95,
+    "category": "chicken"
+  },
+  {
+    "id": 19,
+    "name": "3 Cans of 375mL Drink ",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t4/1.webp",
+    "price": 10.15,
+    "category": "drinks-and-shakes"
+  },
+  {
+    "id": 20,
+    "name": "Pepsi",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t4/2.webp",
+    "price": 9.95,
+    "category": "drinks-and-shakes"
+  },
+  {
+    "id": 21,
+    "name": "Pepsi Max",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t4/3.webp",
+    "price": 6.95,
+    "category": "drinks-and-shakes"
+  },
+  {
+    "id": 22,
+    "name": "7 UP",
+    "ingredient": "ingredient",
+    "recommended": true,
+    "img": "/t4/4.webp",
+    "price": 8.95,
+    "category": "drinks-and-shakes"
+  },
+  {
+    "id": 23,
+    "name": "Mountain Dew",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t4/5.webp",
+    "price": 6.95,
+    "category": "drinks-and-shakes"
+  },
+  {
+    "id": 24,
+    "name": "Sunkist",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t4/6.webp",
+    "price": 9.95,
+    "category": "drinks-and-shakes"
+  },
+  {
+    "id": 25,
+    "name": "Choc Lava Cake ",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t5/1.webp",
+    "price": 30.56,
+    "category": "desserts"
+  },
+  {
+    "id": 26,
+    "name": "Hot Choc Fudge Brownies",
+    "ingredient": "ingredient",
+    "recommended": true,
+    "img": "/t5/2.webp",
+    "price": 19.95,
+    "category": "desserts"
+  },
+  {
+    "id": 27,
+    "name": "Oven Baked Churros",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t5/3.webp",
+    "price": 26.75,
+    "category": "desserts"
+  },
+  {
+    "id": 28,
+    "name": "Mini Dutch Pancakes",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t5/4.webp",
+    "price": 29.95,
+    "category": "desserts"
+  },
+  {
+    "id": 29,
+    "name": "Salted Caramel Chocolate Mousse",
+    "ingredient": "ingredient",
+    "recommended": false,
+    "img": "/t5/5.webp",
+    "price": 36.95,
+    "category": "desserts"
+  },
+  {
+    "id": 30,
+    "name": "Chocolate Dipping Sauce",
+    "ingredient": "ingredient",
+    "recommended": true,
+    "img": "/t5/6.webp",
+    "price": 19.95,
+    "category": "desserts"
+  }
+]
